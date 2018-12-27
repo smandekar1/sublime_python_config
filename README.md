@@ -12,3 +12,11 @@ This repo contains Sublime Text 3 customization, specifically focused on the Pyt
     git clone https://github.com/ZaxR/sublime_python_config.git .  # Note the period
 
 5. Restart Sublime and wait for the packages.settings to be auto-installed (will cause several pop-ups if it's working).
+
+
+## For Windows
+1.  cd 'C:\Program Files\Sublime Text 3\Packages'
+2.  mkdir User
+3.  git clone https://github.com/ZaxR/sublime_python_config.git 
+4.  Restart Sublime and wait for the packages.settings to be auto-installed 
+
